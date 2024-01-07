@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="email" type="id">email</item>
+    <item name="RatingBar" type="id">RatingBar</item>
+    <item name="textViewName" type="id">textViewName</item>
+    <item name="textViewEmail" type="id">textViewEmail</item>
+</resources>
